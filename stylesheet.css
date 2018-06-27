@@ -1,0 +1,158 @@
+element.style {
+}
+body, html {
+    font-size: small;
+}
+body {
+    background: #fff;
+    color: #222;
+}
+body, td, a, p, .h {
+    font-family: arial,sans-serif;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+body, html {
+    font-size: small;
+}
+div#viewport {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+#viewport {
+    min-height: 100%;
+    position: relative;
+    width: 100%;
+}
+.ctr-p {
+    margin: 0 auto;
+    min-width: 980px;
+}
+
+div {
+    display: block;
+}
+
+textarea {
+    font-family: monospace;
+    border-color: rgb(169, 169, 169);
+}
+
+textarea {
+    -webkit-appearance: textarea;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    flex-direction: column;
+    resize: auto;
+    cursor: text;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border-width: 1px;
+    border-style: solid;
+    border-color: initial;
+    border-image: initial;
+    padding: 2px;
+}
+
+input, textarea, select, button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+
+input, textarea, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb !important;
+}
+
+div#searchform.jhp {
+    margin-top: 0;
+}
+.hp #searchform {
+    position: absolute;
+    top: 311px;
+}
+div#searchform {
+    min-width: 980px;
+    z-index: 103;
+}
+#searchform {
+    width: 100%;
+}
+
+button {
+    padding: 1px 6px;
+}
+button {
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+}
+.hp .sbico-c {
+    display: none;
+}
+.sbico-c {
+    background: transparent;
+    border: 0;
+    float: right;
+    height: 44px;
+    line-height: 44px;
+    margin-top: -1px;
+    outline: 0;
+    padding-right: 16px;
+    position: relative;
+    top: -1px;
+}
+.content {
+    padding-bottom: 137px;
+}
+
+#body, #footer {
+    display: block;
+}
+.ctr-p {
+    margin: 0 auto;
+    min-width: 980px;
+}
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+element.style {
+    height: 233px;
+    margin-top: 89px;
+}
+
+#footer {
+    bottom: 0;
+    font-size: 10pt;
+    height: 137px;
+    position: absolute;
+    width: 100%;
+}
